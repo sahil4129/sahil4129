@@ -1,8 +1,6 @@
 ### Hi there 👋
-### 🔭 I’m currently exploring the new progarmming skills.
-### 🌱 I’m currently learning software development.
-### Recent graduate and worked in a startup as a backend intern for B2C e-commerce platform and inclination towards building software and algorithms. Currently exploring opportunities in software development field.
-
+### 🔭 I’m Sahil Goyal.
+### 🔭 A recent graduate from Thapar Institute of Engineering and Technology, currently working as a Software engineer intern in Simyog Technology Pvt. Ltd. and have 6 months of experience as a backend intern in a B2C e-commerce platform. A fast learner and having proficiency in Algorithms and Data Structures, Object Object Programming, C++, Databases, and Git.
 <!--
 **sahil4129/sahil4129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
