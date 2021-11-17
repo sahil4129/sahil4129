@@ -1,6 +1,7 @@
 ### 😄 Hi there 👋
 ### 🔭 I’m Sahil Goyal.
-### 👨‍💻 R&D Engineer in Simyog Technology Pvt.Ltd.,Graduated from Thapar Institute of Engineering & Technology.
+### 👨‍💻 R&D Engineer in Simyog Technology Pvt.Ltd.
+### 📚 Graduated from Thapar Institute of Engineering & Technology.
 ### ⚡ A fast learner and having proficiency in Algorithms and Data Structures, Object-Oriented Programming,C++,Linux,CI/CD,Databases and SCM.
 <!--
 **sahil4129/sahil4129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
