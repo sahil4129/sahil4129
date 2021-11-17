@@ -1,6 +1,7 @@
-### Hi there 👋
+### 😄 Hi there 👋
 ### 🔭 I’m Sahil Goyal.
-### 🔭 A recent graduate from Thapar Institute of Engineering and Technology, currently working as a Research And Development Engineer in Simyog Technology Pvt. Ltd. and have 6 months of experience as a backend intern in a B2C e-commerce platform. A fast learner and having proficiency in Algorithms and Data Structures, Object-Oriented Programming, C++, Databases, and Git.
+### 🔭 R&D Engineer in Simyog Technology Pvt. Ltd. Graduated from Thapar Institute of Engineering and Technology.
+### ⚡ A fast learner and having proficiency in Algorithms and Data Structures, Object-Oriented Programming,C++,Linux,CI/CD,Databases and SCM.
 <!--
 **sahil4129/sahil4129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
