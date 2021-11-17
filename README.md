@@ -1,6 +1,6 @@
 ### 😄 Hi there 👋
 ### 🔭 I’m Sahil Goyal.
-### 👨‍💻 R&D Engineer in Simyog Technology Pvt.Ltd.
+### 👨‍💻 R&D Engineer at Simyog Technology Pvt.Ltd.
 ### 📚 Graduated from Thapar Institute of Engineering & Technology.
 ### ⚡ A fast learner and having proficiency in Algorithms and Data Structures, Object-Oriented Programming,C++,Linux,CI/CD,Databases and SCM.
 <!--
